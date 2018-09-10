@@ -1,0 +1,18 @@
+{
+  "name": "gql-dates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/graphql": "^14.0.0",
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "apollo-server": "^2.0.7",
+    "dayjs": "^1.7.5",
+    "graphql": "^14.0.2"
+  }
+}
